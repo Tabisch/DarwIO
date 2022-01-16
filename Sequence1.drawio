@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T10:06:04.547Z" agent="5.0 (Windows)" etag="IfcZr5awe2jFH6NSUuS3" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T10:12:56.309Z" agent="5.0 (Windows)" etag="xEo2Gt0_jsSeK7IDZhWW" version="16.2.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,19 @@
           <mxGeometry x="110" y="40" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="sFAjo5R9hbHlnZ1Va_TF-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="sFAjo5R9hbHlnZ1Va_TF-2">
-          <mxGeometry x="5" y="70" width="10" height="80" as="geometry" />
+          <mxGeometry x="5" y="60" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sFAjo5R9hbHlnZ1Va_TF-4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sFAjo5R9hbHlnZ1Va_TF-5" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sFAjo5R9hbHlnZ1Va_TF-6" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sFAjo5R9hbHlnZ1Va_TF-8" value="&lt;div&gt;Benutzer&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
